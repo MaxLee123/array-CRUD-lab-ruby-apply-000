@@ -6,10 +6,9 @@ def
   create_an_array = ["Minh", "Hoang", "Nam", "Namek"]
 end
 
-# add_element_to_end_of_array(array, element)
+# add_element_to_end_of_array(array, element) create_an_array.push("My") 
 def 
   create_an_array << "Mi"
-  create_an_array.push("My") 
 end
 
 # add_element_to_start_of_array(array, element)
