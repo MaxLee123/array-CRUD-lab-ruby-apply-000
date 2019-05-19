@@ -3,7 +3,7 @@ def
 end
 
 def
-  create_an_array["Minh", "Hoang", "Nam", "Namek"]
+  create_an_array = ["Minh", "Hoang", "Nam", "Namek"]
 end
 
 def add_element_to_end_of_array(array, element)
